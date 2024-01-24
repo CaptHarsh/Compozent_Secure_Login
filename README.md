@@ -18,6 +18,12 @@ Set up a MySQL database and update the database connection details in LoginPage.
      $database = "your_database";
 
 Import the compozent_secure_login_db.sql file into your MySQL database to create the necessary tables. Ensure that your PHP environment is set up and running. If using a local environment, consider using a service like MailTrap for 2FA verification.
+![image](https://github.com/CaptHarsh/Compozent_Secure_Login/assets/117205669/5e100119-a546-4701-a321-7a9430b2e0b6)
+![image](https://github.com/CaptHarsh/Compozent_Secure_Login/assets/117205669/2535bec0-6c63-4038-bb15-a474f09b951d)
+![image](https://github.com/CaptHarsh/Compozent_Secure_Login/assets/117205669/5fc810d8-2f1e-403a-a38b-2535f578b462)
+![image](https://github.com/CaptHarsh/Compozent_Secure_Login/assets/117205669/438c698f-1f24-43e6-88f0-bc73d255d2b9)
+![image](https://github.com/CaptHarsh/Compozent_Secure_Login/assets/117205669/e078a67d-ab26-478d-8603-e58a92dba376)
+
 
 # Functionalities
 
